@@ -1,1 +1,1 @@
-Just my coursework for HTML AND JAVASCRIPT. Testing GIT HUB Purposes
+Just uploading my coursework for HTML AND JAVASCRIPT. Testing insidie GIT HUB Purposes
